@@ -121,3 +121,9 @@ C:\Users\jpnet\Minimal API\MiniTodo\bin\Debug\net8.0\runtimes\win-x64\native\e_s
 C:\Users\jpnet\Minimal API\MiniTodo\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\jpnet\Minimal API\MiniTodo\obj\Debug\net8.0\MiniTodo.csproj.AssemblyReference.cache
 C:\Users\jpnet\Minimal API\MiniTodo\obj\Debug\net8.0\MiniTodo.csproj.Up2Date
+C:\Users\jpnet\Minimal API\MiniTodo\bin\Debug\net8.0\Flunt.dll
+C:\Users\jpnet\Minimal API\MiniTodo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jpnet\Minimal API\MiniTodo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jpnet\Minimal API\MiniTodo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jpnet\Minimal API\MiniTodo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jpnet\Minimal API\MiniTodo\obj\Debug\net8.0\MiniTodo.MvcApplicationPartsAssemblyInfo.cs
